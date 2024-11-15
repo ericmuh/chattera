@@ -143,8 +143,8 @@ REST_FRAMEWORK = {
 }
 
 SPECTACULAR_SETTINGS = {
-    "TITLE": "Chattera Project API",
-    "DESCRIPTION": "API for the Chattera project.",
+    "TITLE": "Chattera API",
+    "DESCRIPTION": "API for the Chattera - Stay Connected project.",
     "VERSION": "1.0.0",
     "SERVE_INCLUDE_SCHEMA": False,
     # OTHER SETTINGS
